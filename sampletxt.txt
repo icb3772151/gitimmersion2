@@ -1,0 +1,7 @@
+<!DOCTYPE.HTML>
+<HTML>
+<BODY>
+<Title>Page1</TITLE>
+<H1>ThisIsIt</H1>
+</body>
+<html>
